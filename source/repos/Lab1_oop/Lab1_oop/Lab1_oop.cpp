@@ -17,7 +17,7 @@ int main()
     int grn, kop;
     unsigned int quantity;
     Money finalPrice = { 0,0 };
-    char ch[256];
+    char ch[100];
     int lineAndProductNumber = 1;
 
     cout << "Numbering of products and results of adding grn and kop and multiplying by quantity and total result:\n\n";
